@@ -9,3 +9,5 @@ pkg/
 .idea
 .skaffold-*.yaml
 .kubernetes-manifests-*/
+/azure/*.tfvars
+/azure/secrets.tfvars
